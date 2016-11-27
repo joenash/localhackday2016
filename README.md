@@ -3,9 +3,9 @@
 Welcome to Local Hack Day 2016! This repo will help you get hacking with GitHub, whether you are:
 - Using Git to work on code as a team
 - Using GitHub to collaborate on your project
-- Building a plugin for Atom, an extensible text editor
-- Building a chatbot with Hubot
-- Using the Student Developer Pack to hack with AWS, Digital Ocean, Microsoft, Unreal, and more! 
+- Building a plugin for [Atom](http://atom.io), an extensible text editor
+- Building a chatbot with [Hubot](https://hubot.github.com/)
+- Using the [Student Developer Pack](http://education.github.com/pack) to hack with AWS, Digital Ocean, Microsoft, Unreal, and more! 
 
 ## Working with Git
 
